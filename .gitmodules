@@ -1,0 +1,4 @@
+[submodule "mucivaga"]
+	path = mucivaga
+	url = git@git.vauxoo.com:vauxoo/mucivaga.git
+	branch = 18.0
